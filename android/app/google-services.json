@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "590344599346",
+    "project_id": "grinta-d63f1",
+    "storage_bucket": "grinta-d63f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590344599346:android:fc94dcaf6c491effad492b",
+        "android_client_info": {
+          "package_name": "com.example.grinta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590344599346-t4iqv80ms67h074pfq6fags6269pj9bp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-4cR2SZgUcvtu5fqixOHA6AXKx5OS4-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590344599346-t4iqv80ms67h074pfq6fags6269pj9bp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "590344599346-2mcca6p0tlnoadudouc10b9tmpqkgrpb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.grinta"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
